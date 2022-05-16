@@ -49,7 +49,7 @@ class _HomePageState extends State<HomePage> {
                     labelStyle: TextStyle(
                       color: Colors.black,
                     ),
-                    hintText: "Search product",
+                    hintText: "Search product for more detail",
                     hintStyle: TextStyle(
                       fontSize: 12,
                       color: Colors.grey[300],
